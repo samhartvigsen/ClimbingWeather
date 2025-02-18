@@ -6,6 +6,10 @@ learning exercise, work in Progress.
 Base Requirments:
 
 - Web based application
+  - Front End: Angular
+  - Back End: Node.js
+  - Database: PostgreSQL (maybe transition to MongoDB for the exp. later) (TypeORM for ORM and Mongoose for ODM)
+  - Package/Deploy as Docker images
 - Displays weather for popular climbing areas
   - Uses weather.gov to pull weather info
   - Displays overall weather forecast, temperature, precipitation, and wind
